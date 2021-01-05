@@ -1,0 +1,190 @@
+,Region,year,value
+0,Asia and the Pacific,1999,0.15
+1,Caribbean,1999,0.84
+2,East and Southern Africa,1999,5.7
+3,Eastern Europe and Central Asia,1999,0.19
+4,Latin America,1999,0.25
+5,Middle East and North Africa,1999,0.05
+6,West and Central Africa,1999,1.44
+7,Western & Central Europe and North America,1999,0.08
+8,Global,1999,0.47
+9,Asia and the Pacific,2000,0.14
+10,Caribbean,2000,0.8
+11,East and Southern Africa,2000,5.48
+12,Eastern Europe and Central Asia,2000,0.21
+13,Latin America,2000,0.25
+14,Middle East and North Africa,2000,0.05
+15,West and Central Africa,2000,1.36
+16,Western & Central Europe and North America,2000,0.08
+17,Global,2000,0.45
+18,Asia and the Pacific,2001,0.13
+19,Caribbean,2001,0.78
+20,East and Southern Africa,2001,5.24
+21,Eastern Europe and Central Asia,2001,0.22
+22,Latin America,2001,0.24
+23,Middle East and North Africa,2001,0.05
+24,West and Central Africa,2001,1.27
+25,Western & Central Europe and North America,2001,0.09
+26,Global,2001,0.43
+27,Asia and the Pacific,2002,0.12
+28,Caribbean,2002,0.72
+29,East and Southern Africa,2002,5.0
+30,Eastern Europe and Central Asia,2002,0.23
+31,Latin America,2002,0.23
+32,Middle East and North Africa,2002,0.05
+33,West and Central Africa,2002,1.19
+34,Western & Central Europe and North America,2002,0.09
+35,Global,2002,0.42
+36,Asia and the Pacific,2003,0.11
+37,Caribbean,2003,0.69
+38,East and Southern Africa,2003,4.77
+39,Eastern Europe and Central Asia,2003,0.24
+40,Latin America,2003,0.22
+41,Middle East and North Africa,2003,0.05
+42,West and Central Africa,2003,1.12
+43,Western & Central Europe and North America,2003,0.09
+44,Global,2003,0.4
+45,Asia and the Pacific,2004,0.1
+46,Caribbean,2004,0.64
+47,East and Southern Africa,2004,4.56
+48,Eastern Europe and Central Asia,2004,0.25
+49,Latin America,2004,0.21
+50,Middle East and North Africa,2004,0.05
+51,West and Central Africa,2004,1.05
+52,Western & Central Europe and North America,2004,0.09
+53,Global,2004,0.38
+54,Asia and the Pacific,2005,0.1
+55,Caribbean,2005,0.6
+56,East and Southern Africa,2005,4.35
+57,Eastern Europe and Central Asia,2005,0.26
+58,Latin America,2005,0.21
+59,Middle East and North Africa,2005,0.05
+60,West and Central Africa,2005,0.99
+61,Western & Central Europe and North America,2005,0.09
+62,Global,2005,0.37
+63,Asia and the Pacific,2006,0.1
+64,Caribbean,2006,0.57
+65,East and Southern Africa,2006,4.16
+66,Eastern Europe and Central Asia,2006,0.27
+67,Latin America,2006,0.19
+68,Middle East and North Africa,2006,0.05
+69,West and Central Africa,2006,0.94
+70,Western & Central Europe and North America,2006,0.09
+71,Global,2006,0.36
+72,Asia and the Pacific,2007,0.1
+73,Caribbean,2007,0.54
+74,East and Southern Africa,2007,3.94
+75,Eastern Europe and Central Asia,2007,0.29
+76,Latin America,2007,0.19
+77,Middle East and North Africa,2007,0.05
+78,West and Central Africa,2007,0.89
+79,Western & Central Europe and North America,2007,0.09
+80,Global,2007,0.35
+81,Asia and the Pacific,2008,0.09
+82,Caribbean,2008,0.52
+83,East and Southern Africa,2008,3.71
+84,Eastern Europe and Central Asia,2008,0.3
+85,Latin America,2008,0.19
+86,Middle East and North Africa,2008,0.05
+87,West and Central Africa,2008,0.85
+88,Western & Central Europe and North America,2008,0.09
+89,Global,2008,0.34
+90,Asia and the Pacific,2009,0.09
+91,Caribbean,2009,0.51
+92,East and Southern Africa,2009,3.5
+93,Eastern Europe and Central Asia,2009,0.32
+94,Latin America,2009,0.19
+95,Middle East and North Africa,2009,0.05
+96,West and Central Africa,2009,0.8
+97,Western & Central Europe and North America,2009,0.09
+98,Global,2009,0.33
+99,Asia and the Pacific,2010,0.09
+100,Caribbean,2010,0.49
+101,East and Southern Africa,2010,3.3
+102,Eastern Europe and Central Asia,2010,0.34
+103,Latin America,2010,0.18
+104,Middle East and North Africa,2010,0.04
+105,West and Central Africa,2010,0.76
+106,Western & Central Europe and North America,2010,0.08
+107,Global,2010,0.32
+108,Asia and the Pacific,2011,0.09
+109,Caribbean,2011,0.47
+110,East and Southern Africa,2011,3.04
+111,Eastern Europe and Central Asia,2011,0.36
+112,Latin America,2011,0.19
+113,Middle East and North Africa,2011,0.04
+114,West and Central Africa,2011,0.72
+115,Western & Central Europe and North America,2011,0.08
+116,Global,2011,0.3
+117,Asia and the Pacific,2012,0.09
+118,Caribbean,2012,0.46
+119,East and Southern Africa,2012,2.8
+120,Eastern Europe and Central Asia,2012,0.38
+121,Latin America,2012,0.19
+122,Middle East and North Africa,2012,0.04
+123,West and Central Africa,2012,0.68
+124,Western & Central Europe and North America,2012,0.08
+125,Global,2012,0.29
+126,Asia and the Pacific,2013,0.09
+127,Caribbean,2013,0.44
+128,East and Southern Africa,2013,2.6
+129,Eastern Europe and Central Asia,2013,0.4
+130,Latin America,2013,0.2
+131,Middle East and North Africa,2013,0.04
+132,West and Central Africa,2013,0.63
+133,Western & Central Europe and North America,2013,0.08
+134,Global,2013,0.28
+135,Asia and the Pacific,2014,0.08
+136,Caribbean,2014,0.42
+137,East and Southern Africa,2014,2.42
+138,Eastern Europe and Central Asia,2014,0.42
+139,Latin America,2014,0.2
+140,Middle East and North Africa,2014,0.04
+141,West and Central Africa,2014,0.58
+142,Western & Central Europe and North America,2014,0.08
+143,Global,2014,0.27
+144,Asia and the Pacific,2015,0.08
+145,Caribbean,2015,0.4
+146,East and Southern Africa,2015,2.23
+147,Eastern Europe and Central Asia,2015,0.45
+148,Latin America,2015,0.2
+149,Middle East and North Africa,2015,0.04
+150,West and Central Africa,2015,0.55
+151,Western & Central Europe and North America,2015,0.07
+152,Global,2015,0.26
+153,Asia and the Pacific,2016,0.08
+154,Caribbean,2016,0.39
+155,East and Southern Africa,2016,2.08
+156,Eastern Europe and Central Asia,2016,0.47
+157,Latin America,2016,0.2
+158,Middle East and North Africa,2016,0.04
+159,West and Central Africa,2016,0.52
+160,Western & Central Europe and North America,2016,0.07
+161,Global,2016,0.25
+162,Asia and the Pacific,2017,0.08
+163,Caribbean,2017,0.36
+164,East and Southern Africa,2017,1.92
+165,Eastern Europe and Central Asia,2017,0.5
+166,Latin America,2017,0.2
+167,Middle East and North Africa,2017,0.04
+168,West and Central Africa,2017,0.49
+169,Western & Central Europe and North America,2017,0.07
+170,Global,2017,0.24
+171,Asia and the Pacific,2018,0.07
+172,Caribbean,2018,0.34
+173,East and Southern Africa,2018,1.74
+174,Eastern Europe and Central Asia,2018,0.53
+175,Latin America,2018,0.2
+176,Middle East and North Africa,2018,0.05
+177,West and Central Africa,2018,0.47
+178,Western & Central Europe and North America,2018,0.07
+179,Global,2018,0.23
+180,Asia and the Pacific,2019,0.07
+181,Caribbean,2019,0.33
+182,East and Southern Africa,2019,1.62
+183,Eastern Europe and Central Asia,2019,0.56
+184,Latin America,2019,0.2
+185,Middle East and North Africa,2019,0.05
+186,West and Central Africa,2019,0.44
+187,Western & Central Europe and North America,2019,0.07
+188,Global,2019,0.22

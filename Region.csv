@@ -1,0 +1,568 @@
+Region,year,type,value
+Asia and the Pacific,1999,AIDS-related deaths,180000
+Caribbean,1999,AIDS-related deaths,19000
+East and Southern Africa,1999,AIDS-related deaths,760000
+Eastern Europe and Central Asia,1999,AIDS-related deaths,9700
+Latin America,1999,AIDS-related deaths,42000
+Middle East and North Africa,1999,AIDS-related deaths,3300
+West and Central Africa,1999,AIDS-related deaths,250000
+Western & Central Europe and North America,1999,AIDS-related deaths,21000
+Global,1999,AIDS-related deaths,1300000
+Asia and the Pacific,2000,AIDS-related deaths,210000
+Caribbean,2000,AIDS-related deaths,20000
+East and Southern Africa,2000,AIDS-related deaths,830000
+Eastern Europe and Central Asia,2000,AIDS-related deaths,12000
+Latin America,2000,AIDS-related deaths,44000
+Middle East and North Africa,2000,AIDS-related deaths,3900
+West and Central Africa,2000,AIDS-related deaths,270000
+Western & Central Europe and North America,2000,AIDS-related deaths,23000
+Global,2000,AIDS-related deaths,1400000
+Asia and the Pacific,2001,AIDS-related deaths,240000
+Caribbean,2001,AIDS-related deaths,21000
+East and Southern Africa,2001,AIDS-related deaths,890000
+Eastern Europe and Central Asia,2001,AIDS-related deaths,14000
+Latin America,2001,AIDS-related deaths,44000
+Middle East and North Africa,2001,AIDS-related deaths,4400
+West and Central Africa,2001,AIDS-related deaths,290000
+Western & Central Europe and North America,2001,AIDS-related deaths,23000
+Global,2001,AIDS-related deaths,1500000
+Asia and the Pacific,2002,AIDS-related deaths,260000
+Caribbean,2002,AIDS-related deaths,21000
+East and Southern Africa,2002,AIDS-related deaths,950000
+Eastern Europe and Central Asia,2002,AIDS-related deaths,17000
+Latin America,2002,AIDS-related deaths,44000
+Middle East and North Africa,2002,AIDS-related deaths,5100
+West and Central Africa,2002,AIDS-related deaths,300000
+Western & Central Europe and North America,2002,AIDS-related deaths,21000
+Global,2002,AIDS-related deaths,1600000
+Asia and the Pacific,2003,AIDS-related deaths,280000
+Caribbean,2003,AIDS-related deaths,21000
+East and Southern Africa,2003,AIDS-related deaths,990000
+Eastern Europe and Central Asia,2003,AIDS-related deaths,20000
+Latin America,2003,AIDS-related deaths,45000
+Middle East and North Africa,2003,AIDS-related deaths,5800
+West and Central Africa,2003,AIDS-related deaths,310000
+Western & Central Europe and North America,2003,AIDS-related deaths,20000
+Global,2003,AIDS-related deaths,1700000
+Asia and the Pacific,2004,AIDS-related deaths,290000
+Caribbean,2004,AIDS-related deaths,21000
+East and Southern Africa,2004,AIDS-related deaths,1000000
+Eastern Europe and Central Asia,2004,AIDS-related deaths,23000
+Latin America,2004,AIDS-related deaths,44000
+Middle East and North Africa,2004,AIDS-related deaths,6300
+West and Central Africa,2004,AIDS-related deaths,310000
+Western & Central Europe and North America,2004,AIDS-related deaths,20000
+Global,2004,AIDS-related deaths,1700000
+Asia and the Pacific,2005,AIDS-related deaths,290000
+Caribbean,2005,AIDS-related deaths,21000
+East and Southern Africa,2005,AIDS-related deaths,990000
+Eastern Europe and Central Asia,2005,AIDS-related deaths,26000
+Latin America,2005,AIDS-related deaths,45000
+Middle East and North Africa,2005,AIDS-related deaths,6900
+West and Central Africa,2005,AIDS-related deaths,300000
+Western & Central Europe and North America,2005,AIDS-related deaths,20000
+Global,2005,AIDS-related deaths,1700000
+Asia and the Pacific,2006,AIDS-related deaths,280000
+Caribbean,2006,AIDS-related deaths,18000
+East and Southern Africa,2006,AIDS-related deaths,940000
+Eastern Europe and Central Asia,2006,AIDS-related deaths,28000
+Latin America,2006,AIDS-related deaths,45000
+Middle East and North Africa,2006,AIDS-related deaths,7500
+West and Central Africa,2006,AIDS-related deaths,290000
+Western & Central Europe and North America,2006,AIDS-related deaths,20000
+Global,2006,AIDS-related deaths,1600000
+Asia and the Pacific,2007,AIDS-related deaths,270000
+Caribbean,2007,AIDS-related deaths,16000
+East and Southern Africa,2007,AIDS-related deaths,850000
+Eastern Europe and Central Asia,2007,AIDS-related deaths,27000
+Latin America,2007,AIDS-related deaths,42000
+Middle East and North Africa,2007,AIDS-related deaths,8000
+West and Central Africa,2007,AIDS-related deaths,270000
+Western & Central Europe and North America,2007,AIDS-related deaths,19000
+Global,2007,AIDS-related deaths,1500000
+Asia and the Pacific,2008,AIDS-related deaths,250000
+Caribbean,2008,AIDS-related deaths,14000
+East and Southern Africa,2008,AIDS-related deaths,740000
+Eastern Europe and Central Asia,2008,AIDS-related deaths,26000
+Latin America,2008,AIDS-related deaths,41000
+Middle East and North Africa,2008,AIDS-related deaths,8300
+West and Central Africa,2008,AIDS-related deaths,260000
+Western & Central Europe and North America,2008,AIDS-related deaths,20000
+Global,2008,AIDS-related deaths,1400000
+Asia and the Pacific,2009,AIDS-related deaths,230000
+Caribbean,2009,AIDS-related deaths,12000
+East and Southern Africa,2009,AIDS-related deaths,650000
+Eastern Europe and Central Asia,2009,AIDS-related deaths,26000
+Latin America,2009,AIDS-related deaths,42000
+Middle East and North Africa,2009,AIDS-related deaths,8100
+West and Central Africa,2009,AIDS-related deaths,240000
+Western & Central Europe and North America,2009,AIDS-related deaths,20000
+Global,2009,AIDS-related deaths,1200000
+Asia and the Pacific,2010,AIDS-related deaths,220000
+Caribbean,2010,AIDS-related deaths,11000
+East and Southern Africa,2010,AIDS-related deaths,580000
+Eastern Europe and Central Asia,2010,AIDS-related deaths,28000
+Latin America,2010,AIDS-related deaths,41000
+Middle East and North Africa,2010,AIDS-related deaths,8200
+West and Central Africa,2010,AIDS-related deaths,230000
+Western & Central Europe and North America,2010,AIDS-related deaths,20000
+Global,2010,AIDS-related deaths,1100000
+Asia and the Pacific,2011,AIDS-related deaths,210000
+Caribbean,2011,AIDS-related deaths,11000
+East and Southern Africa,2011,AIDS-related deaths,520000
+Eastern Europe and Central Asia,2011,AIDS-related deaths,31000
+Latin America,2011,AIDS-related deaths,39000
+Middle East and North Africa,2011,AIDS-related deaths,8500
+West and Central Africa,2011,AIDS-related deaths,220000
+Western & Central Europe and North America,2011,AIDS-related deaths,19000
+Global,2011,AIDS-related deaths,1100000
+Asia and the Pacific,2012,AIDS-related deaths,210000
+Caribbean,2012,AIDS-related deaths,11000
+East and Southern Africa,2012,AIDS-related deaths,470000
+Eastern Europe and Central Asia,2012,AIDS-related deaths,33000
+Latin America,2012,AIDS-related deaths,38000
+Middle East and North Africa,2012,AIDS-related deaths,8800
+West and Central Africa,2012,AIDS-related deaths,210000
+Western & Central Europe and North America,2012,AIDS-related deaths,17000
+Global,2012,AIDS-related deaths,1000000
+Asia and the Pacific,2013,AIDS-related deaths,210000
+Caribbean,2013,AIDS-related deaths,10000
+East and Southern Africa,2013,AIDS-related deaths,410000
+Eastern Europe and Central Asia,2013,AIDS-related deaths,33000
+Latin America,2013,AIDS-related deaths,37000
+Middle East and North Africa,2013,AIDS-related deaths,8800
+West and Central Africa,2013,AIDS-related deaths,200000
+Western & Central Europe and North America,2013,AIDS-related deaths,15000
+Global,2013,AIDS-related deaths,930000
+Asia and the Pacific,2014,AIDS-related deaths,210000
+Caribbean,2014,AIDS-related deaths,9400
+East and Southern Africa,2014,AIDS-related deaths,380000
+Eastern Europe and Central Asia,2014,AIDS-related deaths,32000
+Latin America,2014,AIDS-related deaths,38000
+Middle East and North Africa,2014,AIDS-related deaths,8700
+West and Central Africa,2014,AIDS-related deaths,190000
+Western & Central Europe and North America,2014,AIDS-related deaths,14000
+Global,2014,AIDS-related deaths,870000
+Asia and the Pacific,2015,AIDS-related deaths,200000
+Caribbean,2015,AIDS-related deaths,8800
+East and Southern Africa,2015,AIDS-related deaths,350000
+Eastern Europe and Central Asia,2015,AIDS-related deaths,32000
+Latin America,2015,AIDS-related deaths,38000
+Middle East and North Africa,2015,AIDS-related deaths,8700
+West and Central Africa,2015,AIDS-related deaths,180000
+Western & Central Europe and North America,2015,AIDS-related deaths,13000
+Global,2015,AIDS-related deaths,830000
+Asia and the Pacific,2016,AIDS-related deaths,190000
+Caribbean,2016,AIDS-related deaths,8500
+East and Southern Africa,2016,AIDS-related deaths,330000
+Eastern Europe and Central Asia,2016,AIDS-related deaths,33000
+Latin America,2016,AIDS-related deaths,35000
+Middle East and North Africa,2016,AIDS-related deaths,8600
+West and Central Africa,2016,AIDS-related deaths,170000
+Western & Central Europe and North America,2016,AIDS-related deaths,12000
+Global,2016,AIDS-related deaths,800000
+Asia and the Pacific,2017,AIDS-related deaths,180000
+Caribbean,2017,AIDS-related deaths,7800
+East and Southern Africa,2017,AIDS-related deaths,320000
+Eastern Europe and Central Asia,2017,AIDS-related deaths,32000
+Latin America,2017,AIDS-related deaths,35000
+Middle East and North Africa,2017,AIDS-related deaths,8200
+West and Central Africa,2017,AIDS-related deaths,160000
+Western & Central Europe and North America,2017,AIDS-related deaths,12000
+Global,2017,AIDS-related deaths,760000
+Asia and the Pacific,2018,AIDS-related deaths,170000
+Caribbean,2018,AIDS-related deaths,7100
+East and Southern Africa,2018,AIDS-related deaths,310000
+Eastern Europe and Central Asia,2018,AIDS-related deaths,34000
+Latin America,2018,AIDS-related deaths,36000
+Middle East and North Africa,2018,AIDS-related deaths,8000
+West and Central Africa,2018,AIDS-related deaths,150000
+Western & Central Europe and North America,2018,AIDS-related deaths,12000
+Global,2018,AIDS-related deaths,730000
+Asia and the Pacific,2019,AIDS-related deaths,160000
+Caribbean,2019,AIDS-related deaths,6900
+East and Southern Africa,2019,AIDS-related deaths,300000
+Eastern Europe and Central Asia,2019,AIDS-related deaths,35000
+Latin America,2019,AIDS-related deaths,37000
+Middle East and North Africa,2019,AIDS-related deaths,8000
+West and Central Africa,2019,AIDS-related deaths,140000
+Western & Central Europe and North America,2019,AIDS-related deaths,12000
+Global,2019,AIDS-related deaths,690000
+Asia and the Pacific,1999,New HIV infections,500000
+Caribbean,1999,New HIV infections,28000
+East and Southern Africa,1999,New HIV infections,1500000
+Eastern Europe and Central Asia,1999,New HIV infections,56000
+Latin America,1999,New HIV infections,120000
+Middle East and North Africa,1999,New HIV infections,15000
+West and Central Africa,1999,New HIV infections,450000
+Western & Central Europe and North America,1999,New HIV infections,74000
+Global,1999,New HIV infections,2800000
+Asia and the Pacific,2000,New HIV infections,480000
+Caribbean,2000,New HIV infections,27000
+East and Southern Africa,2000,New HIV infections,1500000
+Eastern Europe and Central Asia,2000,New HIV infections,60000
+Latin America,2000,New HIV infections,120000
+Middle East and North Africa,2000,New HIV infections,16000
+West and Central Africa,2000,New HIV infections,440000
+Western & Central Europe and North America,2000,New HIV infections,75000
+Global,2000,New HIV infections,2700000
+Asia and the Pacific,2001,New HIV infections,430000
+Caribbean,2001,New HIV infections,26000
+East and Southern Africa,2001,New HIV infections,1500000
+Eastern Europe and Central Asia,2001,New HIV infections,63000
+Latin America,2001,New HIV infections,120000
+Middle East and North Africa,2001,New HIV infections,17000
+West and Central Africa,2001,New HIV infections,420000
+Western & Central Europe and North America,2001,New HIV infections,77000
+Global,2001,New HIV infections,2600000
+Asia and the Pacific,2002,New HIV infections,420000
+Caribbean,2002,New HIV infections,25000
+East and Southern Africa,2002,New HIV infections,1400000
+Eastern Europe and Central Asia,2002,New HIV infections,66000
+Latin America,2002,New HIV infections,110000
+Middle East and North Africa,2002,New HIV infections,17000
+West and Central Africa,2002,New HIV infections,410000
+Western & Central Europe and North America,2002,New HIV infections,77000
+Global,2002,New HIV infections,2600000
+Asia and the Pacific,2003,New HIV infections,370000
+Caribbean,2003,New HIV infections,24000
+East and Southern Africa,2003,New HIV infections,1400000
+Eastern Europe and Central Asia,2003,New HIV infections,69000
+Latin America,2003,New HIV infections,110000
+Middle East and North Africa,2003,New HIV infections,17000
+West and Central Africa,2003,New HIV infections,390000
+Western & Central Europe and North America,2003,New HIV infections,79000
+Global,2003,New HIV infections,2500000
+Asia and the Pacific,2004,New HIV infections,360000
+Caribbean,2004,New HIV infections,22000
+East and Southern Africa,2004,New HIV infections,1400000
+Eastern Europe and Central Asia,2004,New HIV infections,72000
+Latin America,2004,New HIV infections,110000
+Middle East and North Africa,2004,New HIV infections,17000
+West and Central Africa,2004,New HIV infections,380000
+Western & Central Europe and North America,2004,New HIV infections,80000
+Global,2004,New HIV infections,2400000
+Asia and the Pacific,2005,New HIV infections,370000
+Caribbean,2005,New HIV infections,21000
+East and Southern Africa,2005,New HIV infections,1400000
+Eastern Europe and Central Asia,2005,New HIV infections,76000
+Latin America,2005,New HIV infections,110000
+Middle East and North Africa,2005,New HIV infections,17000
+West and Central Africa,2005,New HIV infections,370000
+Western & Central Europe and North America,2005,New HIV infections,81000
+Global,2005,New HIV infections,2400000
+Asia and the Pacific,2006,New HIV infections,360000
+Caribbean,2006,New HIV infections,20000
+East and Southern Africa,2006,New HIV infections,1300000
+Eastern Europe and Central Asia,2006,New HIV infections,79000
+Latin America,2006,New HIV infections,100000
+Middle East and North Africa,2006,New HIV infections,16000
+West and Central Africa,2006,New HIV infections,360000
+Western & Central Europe and North America,2006,New HIV infections,80000
+Global,2006,New HIV infections,2300000
+Asia and the Pacific,2007,New HIV infections,360000
+Caribbean,2007,New HIV infections,19000
+East and Southern Africa,2007,New HIV infections,1300000
+Eastern Europe and Central Asia,2007,New HIV infections,84000
+Latin America,2007,New HIV infections,100000
+Middle East and North Africa,2007,New HIV infections,16000
+West and Central Africa,2007,New HIV infections,350000
+Western & Central Europe and North America,2007,New HIV infections,81000
+Global,2007,New HIV infections,2300000
+Asia and the Pacific,2008,New HIV infections,350000
+Caribbean,2008,New HIV infections,19000
+East and Southern Africa,2008,New HIV infections,1200000
+Eastern Europe and Central Asia,2008,New HIV infections,88000
+Latin America,2008,New HIV infections,100000
+Middle East and North Africa,2008,New HIV infections,16000
+West and Central Africa,2008,New HIV infections,340000
+Western & Central Europe and North America,2008,New HIV infections,82000
+Global,2008,New HIV infections,2200000
+Asia and the Pacific,2009,New HIV infections,340000
+Caribbean,2009,New HIV infections,19000
+East and Southern Africa,2009,New HIV infections,1200000
+Eastern Europe and Central Asia,2009,New HIV infections,93000
+Latin America,2009,New HIV infections,100000
+Middle East and North Africa,2009,New HIV infections,16000
+West and Central Africa,2009,New HIV infections,330000
+Western & Central Europe and North America,2009,New HIV infections,80000
+Global,2009,New HIV infections,2200000
+Asia and the Pacific,2010,New HIV infections,340000
+Caribbean,2010,New HIV infections,18000
+East and Southern Africa,2010,New HIV infections,1200000
+Eastern Europe and Central Asia,2010,New HIV infections,98000
+Latin America,2010,New HIV infections,100000
+Middle East and North Africa,2010,New HIV infections,16000
+West and Central Africa,2010,New HIV infections,320000
+Western & Central Europe and North America,2010,New HIV infections,77000
+Global,2010,New HIV infections,2100000
+Asia and the Pacific,2011,New HIV infections,340000
+Caribbean,2011,New HIV infections,18000
+East and Southern Africa,2011,New HIV infections,1100000
+Eastern Europe and Central Asia,2011,New HIV infections,100000
+Latin America,2011,New HIV infections,100000
+Middle East and North Africa,2011,New HIV infections,16000
+West and Central Africa,2011,New HIV infections,320000
+Western & Central Europe and North America,2011,New HIV infections,76000
+Global,2011,New HIV infections,2100000
+Asia and the Pacific,2012,New HIV infections,340000
+Caribbean,2012,New HIV infections,17000
+East and Southern Africa,2012,New HIV infections,1000000
+Eastern Europe and Central Asia,2012,New HIV infections,110000
+Latin America,2012,New HIV infections,110000
+Middle East and North Africa,2012,New HIV infections,17000
+West and Central Africa,2012,New HIV infections,310000
+Western & Central Europe and North America,2012,New HIV infections,75000
+Global,2012,New HIV infections,2000000
+Asia and the Pacific,2013,New HIV infections,340000
+Caribbean,2013,New HIV infections,17000
+East and Southern Africa,2013,New HIV infections,1000000
+Eastern Europe and Central Asia,2013,New HIV infections,120000
+Latin America,2013,New HIV infections,110000
+Middle East and North Africa,2013,New HIV infections,17000
+West and Central Africa,2013,New HIV infections,290000
+Western & Central Europe and North America,2013,New HIV infections,73000
+Global,2013,New HIV infections,2000000
+Asia and the Pacific,2014,New HIV infections,340000
+Caribbean,2014,New HIV infections,16000
+East and Southern Africa,2014,New HIV infections,960000
+Eastern Europe and Central Asia,2014,New HIV infections,120000
+Latin America,2014,New HIV infections,110000
+Middle East and North Africa,2014,New HIV infections,17000
+West and Central Africa,2014,New HIV infections,280000
+Western & Central Europe and North America,2014,New HIV infections,72000
+Global,2014,New HIV infections,1900000
+Asia and the Pacific,2015,New HIV infections,330000
+Caribbean,2015,New HIV infections,16000
+East and Southern Africa,2015,New HIV infections,900000
+Eastern Europe and Central Asia,2015,New HIV infections,130000
+Latin America,2015,New HIV infections,120000
+Middle East and North Africa,2015,New HIV infections,17000
+West and Central Africa,2015,New HIV infections,270000
+Western & Central Europe and North America,2015,New HIV infections,72000
+Global,2015,New HIV infections,1900000
+Asia and the Pacific,2016,New HIV infections,320000
+Caribbean,2016,New HIV infections,15000
+East and Southern Africa,2016,New HIV infections,870000
+Eastern Europe and Central Asia,2016,New HIV infections,140000
+Latin America,2016,New HIV infections,110000
+Middle East and North Africa,2016,New HIV infections,18000
+West and Central Africa,2016,New HIV infections,260000
+Western & Central Europe and North America,2016,New HIV infections,70000
+Global,2016,New HIV infections,1800000
+Asia and the Pacific,2017,New HIV infections,310000
+Caribbean,2017,New HIV infections,14000
+East and Southern Africa,2017,New HIV infections,820000
+Eastern Europe and Central Asia,2017,New HIV infections,150000
+Latin America,2017,New HIV infections,120000
+Middle East and North Africa,2017,New HIV infections,18000
+West and Central Africa,2017,New HIV infections,250000
+Western & Central Europe and North America,2017,New HIV infections,67000
+Global,2017,New HIV infections,1800000
+Asia and the Pacific,2018,New HIV infections,300000
+Caribbean,2018,New HIV infections,13000
+East and Southern Africa,2018,New HIV infections,770000
+Eastern Europe and Central Asia,2018,New HIV infections,160000
+Latin America,2018,New HIV infections,120000
+Middle East and North Africa,2018,New HIV infections,19000
+West and Central Africa,2018,New HIV infections,250000
+Western & Central Europe and North America,2018,New HIV infections,66000
+Global,2018,New HIV infections,1700000
+Asia and the Pacific,2019,New HIV infections,300000
+Caribbean,2019,New HIV infections,13000
+East and Southern Africa,2019,New HIV infections,730000
+Eastern Europe and Central Asia,2019,New HIV infections,170000
+Latin America,2019,New HIV infections,120000
+Middle East and North Africa,2019,New HIV infections,20000
+West and Central Africa,2019,New HIV infections,240000
+Western & Central Europe and North America,2019,New HIV infections,65000
+Global,2019,New HIV infections,1700000
+Asia and the Pacific,1999,People living with HIV,3800000
+Caribbean,1999,People living with HIV,290000
+East and Southern Africa,1999,People living with HIV,12400000
+Eastern Europe and Central Asia,1999,People living with HIV,290000
+Latin America,1999,People living with HIV,910000
+Middle East and North Africa,1999,People living with HIV,80000
+West and Central Africa,1999,People living with HIV,3900000
+Western & Central Europe and North America,1999,People living with HIV,1100000
+Global,1999,People living with HIV,22800000
+Asia and the Pacific,2000,People living with HIV,4100000
+Caribbean,2000,People living with HIV,290000
+East and Southern Africa,2000,People living with HIV,13000000
+Eastern Europe and Central Asia,2000,People living with HIV,330000
+Latin America,2000,People living with HIV,980000
+Middle East and North Africa,2000,People living with HIV,91000
+West and Central Africa,2000,People living with HIV,4000000
+Western & Central Europe and North America,2000,People living with HIV,1200000
+Global,2000,People living with HIV,24000000
+Asia and the Pacific,2001,People living with HIV,4300000
+Caribbean,2001,People living with HIV,300000
+East and Southern Africa,2001,People living with HIV,13500000
+Eastern Europe and Central Asia,2001,People living with HIV,380000
+Latin America,2001,People living with HIV,1000000
+Middle East and North Africa,2001,People living with HIV,100000
+West and Central Africa,2001,People living with HIV,4100000
+Western & Central Europe and North America,2001,People living with HIV,1200000
+Global,2001,People living with HIV,24900000
+Asia and the Pacific,2002,People living with HIV,4400000
+Caribbean,2002,People living with HIV,300000
+East and Southern Africa,2002,People living with HIV,13900000
+Eastern Europe and Central Asia,2002,People living with HIV,420000
+Latin America,2002,People living with HIV,1100000
+Middle East and North Africa,2002,People living with HIV,110000
+West and Central Africa,2002,People living with HIV,4100000
+Western & Central Europe and North America,2002,People living with HIV,1300000
+Global,2002,People living with HIV,25700000
+Asia and the Pacific,2003,People living with HIV,4500000
+Caribbean,2003,People living with HIV,300000
+East and Southern Africa,2003,People living with HIV,14200000
+Eastern Europe and Central Asia,2003,People living with HIV,460000
+Latin America,2003,People living with HIV,1200000
+Middle East and North Africa,2003,People living with HIV,120000
+West and Central Africa,2003,People living with HIV,4200000
+Western & Central Europe and North America,2003,People living with HIV,1300000
+Global,2003,People living with HIV,26300000
+Asia and the Pacific,2004,People living with HIV,4500000
+Caribbean,2004,People living with HIV,290000
+East and Southern Africa,2004,People living with HIV,14500000
+Eastern Europe and Central Asia,2004,People living with HIV,510000
+Latin America,2004,People living with HIV,1200000
+Middle East and North Africa,2004,People living with HIV,130000
+West and Central Africa,2004,People living with HIV,4200000
+Western & Central Europe and North America,2004,People living with HIV,1400000
+Global,2004,People living with HIV,26800000
+Asia and the Pacific,2005,People living with HIV,4600000
+Caribbean,2005,People living with HIV,290000
+East and Southern Africa,2005,People living with HIV,14800000
+Eastern Europe and Central Asia,2005,People living with HIV,550000
+Latin America,2005,People living with HIV,1300000
+Middle East and North Africa,2005,People living with HIV,140000
+West and Central Africa,2005,People living with HIV,4200000
+Western & Central Europe and North America,2005,People living with HIV,1500000
+Global,2005,People living with HIV,27300000
+Asia and the Pacific,2006,People living with HIV,4600000
+Caribbean,2006,People living with HIV,290000
+East and Southern Africa,2006,People living with HIV,15100000
+Eastern Europe and Central Asia,2006,People living with HIV,590000
+Latin America,2006,People living with HIV,1300000
+Middle East and North Africa,2006,People living with HIV,150000
+West and Central Africa,2006,People living with HIV,4200000
+Western & Central Europe and North America,2006,People living with HIV,1500000
+Global,2006,People living with HIV,27800000
+Asia and the Pacific,2007,People living with HIV,4700000
+Caribbean,2007,People living with HIV,290000
+East and Southern Africa,2007,People living with HIV,15400000
+Eastern Europe and Central Asia,2007,People living with HIV,640000
+Latin America,2007,People living with HIV,1400000
+Middle East and North Africa,2007,People living with HIV,150000
+West and Central Africa,2007,People living with HIV,4300000
+Western & Central Europe and North America,2007,People living with HIV,1600000
+Global,2007,People living with HIV,28400000
+Asia and the Pacific,2008,People living with HIV,4800000
+Caribbean,2008,People living with HIV,290000
+East and Southern Africa,2008,People living with HIV,15800000
+Eastern Europe and Central Asia,2008,People living with HIV,700000
+Latin America,2008,People living with HIV,1400000
+Middle East and North Africa,2008,People living with HIV,160000
+West and Central Africa,2008,People living with HIV,4300000
+Western & Central Europe and North America,2008,People living with HIV,1600000
+Global,2008,People living with HIV,29100000
+Asia and the Pacific,2009,People living with HIV,4800000
+Caribbean,2009,People living with HIV,300000
+East and Southern Africa,2009,People living with HIV,16300000
+Eastern Europe and Central Asia,2009,People living with HIV,760000
+Latin America,2009,People living with HIV,1500000
+Middle East and North Africa,2009,People living with HIV,170000
+West and Central Africa,2009,People living with HIV,4400000
+Western & Central Europe and North America,2009,People living with HIV,1700000
+Global,2009,People living with HIV,29900000
+Asia and the Pacific,2010,People living with HIV,4900000
+Caribbean,2010,People living with HIV,300000
+East and Southern Africa,2010,People living with HIV,16800000
+Eastern Europe and Central Asia,2010,People living with HIV,820000
+Latin America,2010,People living with HIV,1500000
+Middle East and North Africa,2010,People living with HIV,170000
+West and Central Africa,2010,People living with HIV,4400000
+Western & Central Europe and North America,2010,People living with HIV,1700000
+Global,2010,People living with HIV,30700000
+Asia and the Pacific,2011,People living with HIV,5000000
+Caribbean,2011,People living with HIV,310000
+East and Southern Africa,2011,People living with HIV,17300000
+Eastern Europe and Central Asia,2011,People living with HIV,890000
+Latin America,2011,People living with HIV,1600000
+Middle East and North Africa,2011,People living with HIV,180000
+West and Central Africa,2011,People living with HIV,4500000
+Western & Central Europe and North America,2011,People living with HIV,1800000
+Global,2011,People living with HIV,31600000
+Asia and the Pacific,2012,People living with HIV,5100000
+Caribbean,2012,People living with HIV,310000
+East and Southern Africa,2012,People living with HIV,17800000
+Eastern Europe and Central Asia,2012,People living with HIV,960000
+Latin America,2012,People living with HIV,1600000
+Middle East and North Africa,2012,People living with HIV,190000
+West and Central Africa,2012,People living with HIV,4500000
+Western & Central Europe and North America,2012,People living with HIV,1900000
+Global,2012,People living with HIV,32400000
+Asia and the Pacific,2013,People living with HIV,5200000
+Caribbean,2013,People living with HIV,310000
+East and Southern Africa,2013,People living with HIV,18300000
+Eastern Europe and Central Asia,2013,People living with HIV,1000000
+Latin America,2013,People living with HIV,1700000
+Middle East and North Africa,2013,People living with HIV,190000
+West and Central Africa,2013,People living with HIV,4600000
+Western & Central Europe and North America,2013,People living with HIV,1900000
+Global,2013,People living with HIV,33200000
+Asia and the Pacific,2014,People living with HIV,5300000
+Caribbean,2014,People living with HIV,320000
+East and Southern Africa,2014,People living with HIV,18800000
+Eastern Europe and Central Asia,2014,People living with HIV,1100000
+Latin America,2014,People living with HIV,1800000
+Middle East and North Africa,2014,People living with HIV,200000
+West and Central Africa,2014,People living with HIV,4600000
+Western & Central Europe and North America,2014,People living with HIV,2000000
+Global,2014,People living with HIV,34100000
+Asia and the Pacific,2015,People living with HIV,5400000
+Caribbean,2015,People living with HIV,320000
+East and Southern Africa,2015,People living with HIV,19200000
+Eastern Europe and Central Asia,2015,People living with HIV,1200000
+Latin America,2015,People living with HIV,1800000
+Middle East and North Africa,2015,People living with HIV,210000
+West and Central Africa,2015,People living with HIV,4700000
+Western & Central Europe and North America,2015,People living with HIV,2000000
+Global,2015,People living with HIV,34900000
+Asia and the Pacific,2016,People living with HIV,5500000
+Caribbean,2016,People living with HIV,320000
+East and Southern Africa,2016,People living with HIV,19700000
+Eastern Europe and Central Asia,2016,People living with HIV,1300000
+Latin America,2016,People living with HIV,1900000
+Middle East and North Africa,2016,People living with HIV,210000
+West and Central Africa,2016,People living with HIV,4700000
+Western & Central Europe and North America,2016,People living with HIV,2100000
+Global,2016,People living with HIV,35700000
+Asia and the Pacific,2017,People living with HIV,5600000
+Caribbean,2017,People living with HIV,320000
+East and Southern Africa,2017,People living with HIV,20100000
+Eastern Europe and Central Asia,2017,People living with HIV,1400000
+Latin America,2017,People living with HIV,2000000
+Middle East and North Africa,2017,People living with HIV,220000
+West and Central Africa,2017,People living with HIV,4800000
+Western & Central Europe and North America,2017,People living with HIV,2100000
+Global,2017,People living with HIV,36500000
+Asia and the Pacific,2018,People living with HIV,5700000
+Caribbean,2018,People living with HIV,330000
+East and Southern Africa,2018,People living with HIV,20400000
+Eastern Europe and Central Asia,2018,People living with HIV,1500000
+Latin America,2018,People living with HIV,2000000
+Middle East and North Africa,2018,People living with HIV,230000
+West and Central Africa,2018,People living with HIV,4900000
+Western & Central Europe and North America,2018,People living with HIV,2100000
+Global,2018,People living with HIV,37300000
+Asia and the Pacific,2019,People living with HIV,5800000
+Caribbean,2019,People living with HIV,330000
+East and Southern Africa,2019,People living with HIV,20700000
+Eastern Europe and Central Asia,2019,People living with HIV,1700000
+Latin America,2019,People living with HIV,2100000
+Middle East and North Africa,2019,People living with HIV,240000
+West and Central Africa,2019,People living with HIV,4900000
+Western & Central Europe and North America,2019,People living with HIV,2200000
+Global,2019,People living with HIV,38000000
