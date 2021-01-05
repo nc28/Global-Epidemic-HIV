@@ -280,9 +280,9 @@ yaxis=dict(
 
 
 
-if password=='condomready':
+if password=='hivcondomready':
     main()
-elif password !='condomready':
+elif password !='hivcondomready':
         st.error("Authentication failed. Please verify your password and try again. ")
 
 hide_streamlit_style = """
